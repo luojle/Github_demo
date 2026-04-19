@@ -2,4 +2,3 @@
 222
 ubuntu
 i
-pycharm
